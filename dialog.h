@@ -33,7 +33,7 @@ private slots:
 
 private:
     Ui::Dialog *ui;
-    QStandardItemModel *usersModel, *dossiersModel;
+    QStandardItemModel *usersModel, *dossiersModel, *ontvangenModel, *gegevenModel;
 };
 
 #endif // DIALOG_H
